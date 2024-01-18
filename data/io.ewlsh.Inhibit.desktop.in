@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Inhibit
+Exec=io.ewlsh.Inhibit
+Icon=io.ewlsh.Inhibit
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

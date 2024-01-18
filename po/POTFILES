@@ -1,0 +1,6 @@
+data/io.ewlsh.Inhibit.desktop.in
+data/io.ewlsh.Inhibit.metainfo.xml.in
+data/io.ewlsh.Inhibit.gschema.xml
+src/main.js
+src/window.js
+src/window.ui
